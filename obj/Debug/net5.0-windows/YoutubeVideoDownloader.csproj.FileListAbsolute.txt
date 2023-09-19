@@ -1,0 +1,84 @@
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\YoutubeVideoDownloader.exe
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\YoutubeVideoDownloader.deps.json
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\YoutubeVideoDownloader.runtimeconfig.json
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\YoutubeVideoDownloader.runtimeconfig.dev.json
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.AssemblyReference.cache
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.GenerateResource.cache
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.AssemblyInfoInputs.cache
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.AssemblyInfo.cs
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.CopyComplete
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\refint\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.genruntimeconfig.cache
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\ref\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\AngleSharp.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\bin\Debug\net5.0-windows\YoutubeExplode.dll
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.Properties.Resources.resources
+C:\Users\Huseyn\Desktop\New folder\YoutubeVideoDownloader\obj\Debug\net5.0-windows\YoutubeVideoDownloader.YoutubeVideoConverterToMp3.resources
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\YoutubeVideoDownloader.exe
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\YoutubeVideoDownloader.deps.json
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\YoutubeVideoDownloader.runtimeconfig.json
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\YoutubeVideoDownloader.runtimeconfig.dev.json
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\AngleSharp.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\YoutubeExplode.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.AssemblyReference.cache
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.Properties.Resources.resources
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.YoutubeVideoConverterToMp3.resources
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.GenerateResource.cache
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.AssemblyInfoInputs.cache
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.AssemblyInfo.cs
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.CopyComplete
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\refint\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\YoutubeVideoDownloader.genruntimeconfig.cache
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\obj\Debug\net5.0-windows\ref\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Huseyn\Desktop\Youtube-Mp3-Converter-C-Desktop-App\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\YoutubeVideoDownloader.exe
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\YoutubeVideoDownloader.deps.json
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\YoutubeVideoDownloader.runtimeconfig.json
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\YoutubeVideoDownloader.runtimeconfig.dev.json
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\AngleSharp.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\bin\Debug\net5.0-windows\YoutubeExplode.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.AssemblyReference.cache
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.Properties.Resources.resources
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.YoutubeVideoConverterToMp3.resources
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.GenerateResource.cache
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.AssemblyInfoInputs.cache
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.AssemblyInfo.cs
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.csproj.CopyComplete
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\refint\YoutubeVideoDownloader.dll
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\YoutubeVideoDownloader.genruntimeconfig.cache
+C:\Users\Huseyn\Desktop\Youtube-Video-Converter-App-Windwos-Form-Desktop\obj\Debug\net5.0-windows\ref\YoutubeVideoDownloader.dll
