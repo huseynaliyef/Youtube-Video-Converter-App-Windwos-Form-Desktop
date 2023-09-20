@@ -1,0 +1,145 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YoutubeVideoDownloader/1.0.0": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.2045.28",
+          "YoutubeExplode": "6.3.2"
+        },
+        "runtime": {
+          "YoutubeVideoDownloader.dll": {}
+        }
+      },
+      "AngleSharp/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "7.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AngleSharp.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.2045.28": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          }
+        }
+      },
+      "System.Memory/4.5.5": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/7.0.0": {
+        "dependencies": {
+          "System.Memory": "4.5.5",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "YoutubeExplode/6.3.2": {
+        "dependencies": {
+          "AngleSharp": "1.0.4"
+        },
+        "runtime": {
+          "lib/net5.0/YoutubeExplode.dll": {
+            "assemblyVersion": "6.3.2.0",
+            "fileVersion": "6.3.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YoutubeVideoDownloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AngleSharp/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G8R4C2MEDFQvjUbYz1QIcGfibjsTJnzP0aWy8iQgWWk7eKacYydCNGD3JMhVL0Q5pZQ9RYlqpKNESEU5NpqsRw==",
+      "path": "anglesharp/1.0.4",
+      "hashPath": "anglesharp.1.0.4.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2/1.0.2045.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QDsR/HCNjzqYZrIuNLxyfmOIqVfMq1iGyoBR3OVVlFl4NZ12T8jRC0MNpOReKfgwtO5zh8g+eBYR6RAXFltcVA==",
+      "path": "microsoft.web.webview2/1.0.2045.28",
+      "hashPath": "microsoft.web.webview2.1.0.2045.28.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LSyCblMpvOe0N3E+8e0skHcrIhgV2huaNcjUUEa8hRtgEAm36aGkRoC8Jxlb6Ra6GSfF29ftduPNywin8XolzQ==",
+      "path": "system.text.encoding.codepages/7.0.0",
+      "hashPath": "system.text.encoding.codepages.7.0.0.nupkg.sha512"
+    },
+    "YoutubeExplode/6.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HV2e4mls8vmOA6tQAkzNFc2vEqCwVxlfMB2deMGTnfSgatHwXXCXXMah++H2RSSDDljUCqyR8z4QJVVpMRKG8w==",
+      "path": "youtubeexplode/6.3.2",
+      "hashPath": "youtubeexplode.6.3.2.nupkg.sha512"
+    }
+  }
+}
